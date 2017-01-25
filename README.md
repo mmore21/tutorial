@@ -1,3 +1,3 @@
-# MAZ'S BEGINNER PYTHON PROJECTS
+# PYTHON PROJECTS
 
-Just a noob trying to learn to program in Python. I'm uploading all projects I do from an online MIT course and any other projects that challenge me. Hoping to learn a lot!
+Using this repo as a hub to store all the Python challenges, programs, and mini-projects I make as I learn the language.
