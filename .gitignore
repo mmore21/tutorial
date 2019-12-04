@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 ### VisualStudioCode ###
+*/.vscode/*
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -138,5 +139,7 @@ dmypy.json
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
+
+*/.idea/*
 
 # End of https://www.gitignore.io/api/python,visualstudiocode
