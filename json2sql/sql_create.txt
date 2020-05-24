@@ -1,0 +1,13 @@
+CREATE TABLE Table (
+company_id bigint,
+project_id bigint,
+id bigint,
+specification_section_id bigint,
+number int,
+description varchar(MAX),
+url varchar(1000),
+revision varchar(255),
+issued_date date,
+received_date date,
+PRIMARY KEY (company_id, project_id, id, )
+);
