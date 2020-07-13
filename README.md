@@ -1,3 +1,3 @@
 # Python Projects
 
-Using this repo as a hub to store various challenges, programs, and mini-projects coded in Python 3.
+Centralized hub consisting of various challenges, programs, and tools coded in Python.
