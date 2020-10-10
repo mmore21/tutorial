@@ -1,38 +1,20 @@
 {
-  "drawing_date": "2015-03-17",
-  "drawing_id": 1,
-  "drawing_sketches_count": 2,
-  "height": 3431,
-  "id": 2,
-  "number": "A2",
-  "pdf_size": 1024000,
-  "pdf_url": "https://s3.amazonaws.com/pro-core.com/prostore/drawing.pdf",
-  "png_size": 1024000,
-  "png_url": "https://s3.amazonaws.com/pro-core.com/prostore/drawing.png",
-  "received_date": "2015-03-17",
-  "title": "Floor 2",
-  "updated_at": "2015-03-19T12:00:00Z",
-  "width": 4803,
-  "has_public_markup_layer_elements": true,
-  "has_drawing_sketches": true,
-  "current": true,
-  "floorplan": false,
-  "revision_number": "0",
-  "thumbnail_url": "https://s3.amazonaws.com/pro-core.com/prostore/drawing_thumbnail.png",
-  "large_thumbnail_url": "https://s3.amazonaws.com/pro-core.com/prostore/drawing_thumbnail_large.png",
-  "activity_stream_last_viewed_at": "null",
-  "position": 2,
-  "zip_url": "https://streaming.procore.com/download?uuid=03bb9d61702ce533caef169d4370b98f7f7e407f71a0af72f8a593de469aae92",
-  "obsolete": false,
-  "drawing_set": {
-    "id": 123
+  "file_id": 14,
+  "id": 12,
+  "notes": "this is a cool file version",
+  "url": "www.file.com",
+  "size": 12674,
+  "created_at": "2017-01-04T21:27:18.000Z",
+  "number": 1,
+  "created_by": {
+    "id": 160586,
+    "login": "exampleuser@website.com",
+    "name": "Carl Contractor"
   },
-  "drawing_area": {
-    "id": 456
-  },
-  "discipline": {
-    "id": 1234,
-    "name": "Architectural",
-    "position": 1
+  "prostore_file": {
+    "id": 42,
+    "name": "foobar",
+    "url": "foobar",
+    "filename": "foobar"
   }
 }
