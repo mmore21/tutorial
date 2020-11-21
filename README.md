@@ -1,12 +1,4 @@
-# python_utils
+# tutorial
 
-Centralized hub consisting of various tools coded in Python.
+Centralized hub consisting of code from various tutorials.
 
-## Tools
-
-* caesar_cipher
-* cl_parser
-* json2sql
-* pdf_combiner
-* py_qt_browser
-* tutorials
